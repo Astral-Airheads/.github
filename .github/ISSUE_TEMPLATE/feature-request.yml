@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        **Hey there!** Thanks for taking your time to file a feature request 💞
+        **Hey there!** Thanks for taking your time to file a feature request! 💞
         Your requests are highly appreciated and can help us improve our projects! 🛠️
         **Please make sure this feature request hasn't been already submitted by someone by looking through other open/closed issues or PRs.** ⚠️
 
