@@ -9,6 +9,7 @@ body:
       value: |
         **Hey there!** Thanks for taking your time to file a bug report for our project! 💞
         Your reports are appreciated and can help us improve our projects! 🛠️
+        Remember: "Required to fill" properties are marked with a red `*` (asterisk).
 
   - type: textarea
     id: bug-description
