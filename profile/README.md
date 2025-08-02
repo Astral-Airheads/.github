@@ -2,7 +2,7 @@
 
 Just an GitHub organization with only me in it since my fellow friend in this duo isn't a programmer like me :/
 
-**WE SUPPORT FREE AND OPEN-SOURCE SOFTEWARES**
+**WE SUPPORT FREE AND OPEN-SOURCE SOFTWARES**
 
 This may contain some random open-source stuff that I (matt) might upload from some random TikTok or YouTube video that we've made if I even want to,
 or some actual projects that I made that I would like to upload on the behalf of this duo (me and Larz).
